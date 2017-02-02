@@ -1,0 +1,46 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Audio;
+using FinalGame.Templates;
+
+namespace FinalGame.Entities
+{
+    class Stone : Entity
+    {
+        int throwPower;
+        float rotation;
+        SoundEffect collisionSnd = GameState.loader.Load<SoundEffect>("sfx\\smack");
+
+        public Stone(int x, int y, int touchX, int touchY, int throwPower)
+            : base(x, y, "stone")
+        {
+            this.throwPower = throwPower;
+            this.rotation = (float)(-Math.Atan2(touchX - x - 40 / 2, touchY - y - 40/ 2) + Math.PI);
+            Movement = new Vector2((float)Math.Sin(rotation) * throwPower, (float)-Math.Cos(rotation) * throwPower);
+        }
+
+        public override void doLogic()
+        {
+            List<Entity> collisions = Main.currentGS.getPossibleCollision(this);
+            if (collisions.Count > 0)
+            {
+                foreach (Entity e in collisions)
+                {
+                    if (e is Bird)
+                    {
+                        Main.currentGS.removeEntity(e);
+                        Main.currentGS.removeEntity(this);
+                        State_Game.scoreTracker.CurrentScore += 1;
+                        collisionSnd.Play();
+                    }
+                }
+            }
+            if (!isOnScreen(position, width, height))
+                Main.currentGS.removeEntity(this);
+            Movement += GRAVITY;
+        }
+    }
+}

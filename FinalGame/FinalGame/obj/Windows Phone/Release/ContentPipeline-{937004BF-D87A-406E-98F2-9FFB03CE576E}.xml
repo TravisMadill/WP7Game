@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>fntMain.spritefont</Source>
+      <Name>fntMain</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalGame\FinalGame\FinalGame\bin\Windows Phone\Release\Content\fntMain.xnb</Output>
+      <Time>2013-11-04T10:34:00.3856198-05:00</Time>
+    </Item>
+    <Item>
+      <Source>test.bmp</Source>
+      <Name>test</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalGame\FinalGame\FinalGame\bin\Windows Phone\Release\Content\test.xnb</Output>
+      <Time>2013-11-01T21:30:08.0557454-04:00</Time>
+    </Item>
+    <Item>
+      <Source>test_n.bmp</Source>
+      <Name>test_n</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalGame\FinalGame\FinalGame\bin\Windows Phone\Release\Content\test_n.xnb</Output>
+      <Time>2013-11-18T13:13:24.9991515-05:00</Time>
+    </Item>
+    <Item>
+      <Source>test_p.bmp</Source>
+      <Name>test_p</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalGame\FinalGame\FinalGame\bin\Windows Phone\Release\Content\test_p.xnb</Output>
+      <Time>2013-11-18T13:14:13.3129149-05:00</Time>
+    </Item>
+    <Item>
+      <Source>start_n.bmp</Source>
+      <Name>start_n</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalGame\FinalGame\FinalGame\bin\Windows Phone\Release\Content\start_n.xnb</Output>
+      <Time>2013-11-19T10:36:07.6390514-05:00</Time>
+    </Item>
+    <Item>
+      <Source>start_p.bmp</Source>
+      <Name>start_p</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalGame\FinalGame\FinalGame\bin\Windows Phone\Release\Content\start_p.xnb</Output>
+      <Time>2013-11-19T10:35:43.0996479-05:00</Time>
+    </Item>
+    <Item>
+      <Source>ui_stoneUsed.bmp</Source>
+      <Name>ui_stoneUsed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalGame\FinalGame\FinalGame\bin\Windows Phone\Release\Content\ui_stoneUsed.xnb</Output>
+      <Time>2013-11-19T19:26:51.5929714-05:00</Time>
+    </Item>
+    <Item>
+      <Source>nothing.bmp</Source>
+      <Name>nothing</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalGame\FinalGame\FinalGame\bin\Windows Phone\Release\Content\nothing.xnb</Output>
+      <Time>2013-11-19T19:42:13.0316209-05:00</Time>
+    </Item>
+    <Item>
+      <Source>ui_scoretag.bmp</Source>
+      <Name>ui_scoretag</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalGame\FinalGame\FinalGame\bin\Windows Phone\Release\Content\ui_scoretag.xnb</Output>
+      <Time>2013-11-19T20:06:47.4243529-05:00</Time>
+    </Item>
+    <Item>
+      <Source>testBird.bmp</Source>
+      <Name>testBird</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalGame\FinalGame\FinalGame\bin\Windows Phone\Release\Content\testBird.xnb</Output>
+      <Time>2013-11-19T20:19:09.0534808-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{937004BF-D87A-406E-98F2-9FFB03CE576E}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalGame\FinalGame\FinalGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalGame\FinalGame\FinalGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalGame\FinalGame\FinalGame\obj\Windows Phone\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalGame\FinalGame\FinalGame\bin\Windows Phone\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-10-25T19:18:01.4776722-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,21 @@
+C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalGame\FinalGame\FinalGame\bin\Windows Phone\Release\Content\fntMain.xnb
+C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalGame\FinalGame\FinalGame\bin\Windows Phone\Release\Content\test.xnb
+C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalGame\FinalGame\FinalGame\bin\Windows Phone\Release\Content\test_n.xnb
+C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalGame\FinalGame\FinalGame\bin\Windows Phone\Release\Content\test_p.xnb
+C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalGame\FinalGame\FinalGame\bin\Windows Phone\Release\Content\start_n.xnb
+C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalGame\FinalGame\FinalGame\bin\Windows Phone\Release\Content\start_p.xnb
+C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalGame\FinalGame\FinalGame\bin\Windows Phone\Release\Content\ui_stoneUsed.xnb
+C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalGame\FinalGame\FinalGame\bin\Windows Phone\Release\Content\nothing.xnb
+C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalGame\FinalGame\FinalGame\bin\Windows Phone\Release\Content\ui_scoretag.xnb
+C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalGame\FinalGame\FinalGame\bin\Windows Phone\Release\Content\testBird.xnb
+C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalGame\FinalGame\FinalGame\bin\Windows Phone\Release\FinalGame.dll
+C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalGame\FinalGame\FinalGame\bin\Windows Phone\Release\FinalGame.pdb
+C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalGame\FinalGame\FinalGame\obj\Windows Phone\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalGame\FinalGame\FinalGame\obj\Windows Phone\Release\FinalGame.dll
+C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalGame\FinalGame\FinalGame\obj\Windows Phone\Release\FinalGame.pdb
+C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalGame\FinalGame\FinalGame\bin\Windows Phone\Release\AppManifest.xaml
+C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalGame\FinalGame\FinalGame\obj\Windows Phone\Release\WMAppManifest.xml.g
+C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalGame\FinalGame\FinalGame\obj\Windows Phone\Release\WMAppManifest.xml
+bin\Windows Phone\Release\
+C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalGame\FinalGame\FinalGame\bin\Windows Phone\Release\FinalGame.xap
+C:\Users\Travis\Desktop\elearning\ICS 4U1\ISU\FinalGame\FinalGame\FinalGame\obj\Windows Phone\Release\XapCacheFile.xml

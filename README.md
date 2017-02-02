@@ -1,10 +1,12 @@
 # WP7Game
-## Kill x birds with x-1 stones!
+## Bird-Stone Interaction Simulator 2015
 This is a Windows Phone 7 game I made as one of the final projects in my Grade 12 programming class... Now that I think about it, it was kind of crazy to me that they were expecting us to make four fully-functioning programs in a semester...and that three of the four were games.
 
 Because this was an actual project for me, this repository contains some stuff I wouldn't normally include in my usual mini-projects, like flowcharts and detailed comments and an actual readme file.
 
 ...Also, yes, I'm aware naming things clearly was not my strong suit.
+
+...It's still better than its original name, "Kill x birds with x-1 stones".
 
 ## Original readme to my programming teacher
 This game is about throwing stones at birds! ...And seeing how they
